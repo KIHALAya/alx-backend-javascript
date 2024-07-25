@@ -7,4 +7,3 @@ function displayMessage(message) {
 
 // Export the function to make it available for importing in other files
 module.exports = displayMessage;
-
